@@ -1,5 +1,5 @@
-Sticky
-======
+NO LONGER SUPPORTED. USE AT YOUR OWN RISK.
+===
 
 A super simple notification system for jQuery
 
